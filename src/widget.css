@@ -1,0 +1,20 @@
+.widget {
+  min-width: 50px;
+  min-height: 50px;
+  background-color: white;
+  display: inline-block;
+  position: relative;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.widget-title-container {
+  font-size: 1em;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #aaa;
+}
+
+.widget-content-container {
+  padding: 3px 0;
+  font-size: 0.9em;
+}
